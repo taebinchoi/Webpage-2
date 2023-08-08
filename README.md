@@ -1,6 +1,6 @@
 ## Webpage Training(2)
 
-webver03 : 사이트의 구축 연습 <br/>
+webver03 : 사이트의 구축 <br/>
 https://designus.netlify.app
 ```
 - font-size, font-weight로 타이포 스타일 잡아주기
