@@ -1,0 +1,85 @@
+@media only screen and (max-width: 800px) {
+    .header .main_menu{
+        display: none;
+    }
+    .mobile_view{
+        display: inherit !important;
+    }
+    .mobile_hidden{
+        display: none !important;
+    }
+    .header{
+        width: 100%;
+        padding-top: 11px;
+        border-bottom: none;
+        height: 40px;
+    }
+    .header .logo_section{
+        left: 15px;
+        top: 17px;
+    }
+    .header .logo_section img{
+        width: 84px;
+    }
+    .header .page_title{
+        left: 110px;
+        padding-left: 15px;
+        font-size: 13px;
+        margin-top: 6px;
+    }
+    .header .mobile_menu{
+        position: absolute;
+        right: 15px;
+        top: 14px;
+    }
+    .filter_section{
+        border-top: 1px solid #EFEFEF;
+        height: 40px;
+        z-index: 10;
+    }
+    .filter_section .filter_deco{
+        display: none;
+    }
+    .filter_section .filter_item{
+        font-size: 11px;
+        line-height: 40px;
+        width: 80px;
+    }
+    .filter_section .filter_item .select_box{
+        top: 40px;
+    }
+    .filter_section .filter_item .select_box.company_select_box{
+        width: 100vw;
+    }
+    .filter_section .filter_item .select_box li{
+        width: 80px;
+    }
+    .uiux_study_section{
+        padding-top: 10px;
+    }
+    .uiux_study_section .uiux_study{
+        width: calc(100% - 20px);
+        margin: 10px 0px;
+        height: 350px;
+    }
+    .uiux_study_section .uiux_study .st_contents{
+        padding: 5px 20px;
+    }
+    .uiux_study_section .uiux_study .st_contents .st_title,
+    .uiux_study_section .uiux_study .st_contents .st_job{
+        font-size: 15px;
+        margin-top: 15px;
+    }
+    .uiux_study_section .uiux_study .st_contents .st_desc{
+        font-size: 14px;
+    }
+    .uiux_study_section .uiux_study .st_contents .st_bottom{
+        bottom: 15px;
+    }
+    .uiux_study_section .uiux_study .st_contents .st_bottom .st_time{
+        left: 20px;
+    }
+    .uiux_study_section .uiux_study .st_contents .st_bottom .st_favorite{
+        right: 20px;
+    }
+}
