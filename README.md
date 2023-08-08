@@ -1,4 +1,4 @@
-# Webpage-2
+## Webpage Training(2)
 
 webver03 : 사이트의 구축 연습
 ```
