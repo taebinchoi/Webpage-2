@@ -1,6 +1,7 @@
 ## Webpage Training(2)
 
-webver03 : 사이트의 구축 연습
+webver03 : 사이트의 구축 연습 <br/>
+https://designus.netlify.app
 ```
 font-size, font-weight로 타이포 스타일 잡아주기
 css의 hover 선택자를 이용해 마우스 오버했을 때 관련 옵션들이 나오도록 구현
