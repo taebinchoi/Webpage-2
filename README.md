@@ -10,6 +10,7 @@ https://designus.netlify.app
 - box-shadow 그림자 속성
 - '인라인 방식' : css 관련된 속성을 html 태그 내에 스타일 적용 (각 박스 항목마다 다른 썸네일 이미지를 적용하기 때문!!)
 - 이미지 효과 : opacity, transition-duration 활용, 불투명도가 자연스럽게 바뀌도록 함
+- Netlify를 활용한 사이트 도메인 제작
 
 - 그림 파일은 html, css 파일과 동일 폴더에 위치시켜 링크 적을때 혼동 없도록 할 것
 - absolute로 main 잡아줄 때 위치 맞지 않아 수동으로 바꾸었는데 이 부분 살펴볼 것..
